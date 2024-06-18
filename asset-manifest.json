@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dictionary-reactjs/static/css/main.d00e3374.css",
+    "main.js": "/dictionary-reactjs/static/js/main.61aae1bc.js",
+    "static/js/787.0157ba9a.chunk.js": "/dictionary-reactjs/static/js/787.0157ba9a.chunk.js",
+    "static/media/search logo.png": "/dictionary-reactjs/static/media/search logo.fd35bcb4c18c9e157be2.png",
+    "static/media/BG.png": "/dictionary-reactjs/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/dictionary-reactjs/index.html",
+    "main.d00e3374.css.map": "/dictionary-reactjs/static/css/main.d00e3374.css.map",
+    "main.61aae1bc.js.map": "/dictionary-reactjs/static/js/main.61aae1bc.js.map",
+    "787.0157ba9a.chunk.js.map": "/dictionary-reactjs/static/js/787.0157ba9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00e3374.css",
+    "static/js/main.61aae1bc.js"
+  ]
+}
